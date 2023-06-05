@@ -1,6 +1,5 @@
 # LP12DPBO2023C1
 
-# LP9DPBO2023C1
     Saya Hestina Dwi Hartiwi NIM 2108077 mengerjakan soal Latihan 12 dalam Praktikum
     mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka 
     saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamin.
